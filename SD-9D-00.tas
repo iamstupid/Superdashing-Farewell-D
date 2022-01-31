@@ -1,4 +1,4 @@
-RecordCount: 2201
+RecordCount: 2532
 console load nameguysdsidespack/0/10-Farewell
 Set,SuperDashing,true
    1
@@ -342,7 +342,6 @@ Set,SuperDashing,true
    1,O
   69
 #0:33.779(1987)
-***s
    5,R,Z
    3,R,D
    1
@@ -354,6 +353,8 @@ Set,SuperDashing,true
    1,L
    1,U
   40
+#lvl_aa-00-lobby(2)
+
    1
   14,U
    1,L
@@ -370,6 +371,8 @@ Set,SuperDashing,true
   10,R,D
    5,R,U,X
   43
+#lvl_aa-02
+
   13,U
   24,U,G
   13,R,U,G
@@ -401,6 +404,8 @@ Set,SuperDashing,true
    3,L,D
    2
   40
+#lvl_aa-00-lobby(3)
+
    1
    1,L,U
   12,L,U,X
@@ -426,6 +431,9 @@ Set,SuperDashing,true
   11
    1,L,J
   40
+#lvl_aa-04(1)
+
+
    1,J
    1,L,J
    4,K
@@ -474,6 +482,7 @@ Set,SuperDashing,true
    1,L
    9,D,X
   43
+#lvl_aa-00-lobby(4)
    6,L,D
    5,D,X
    1,R
@@ -517,6 +526,7 @@ Set,SuperDashing,true
    2,L,D
    7,L,J,G
   40
+#lvl_aa-03(2)
    5,L,U,Z
    1
    5,U
@@ -532,217 +542,138 @@ Set,SuperDashing,true
   16,L,J
    5,R,X
   13,R,G
-   7,R,U,J,G
-   8,R,G
+   3,R,U,J,G
+  10,R,G
+  11,R
+   2,R,J
+  10,R,Z
+   1,R,J
+  13,R,G
+   4,R
+   1,R,J,G
+  40
+#lvl_aa-00-lobby(5)
 
+   4,R,U,J,G
+   5,R,J
+   2,R
+   5,U,X
+   2,R,U
+   2,L,U
+   3
+   1,U
+  21,R,U,G
+   1,R
+   3,R
+   1,R,J,G
+   7,R
+   3,R
+   5,L,Z
+   2,L,D
+   2
+   1,L,U
+   1,R,J
+   5,R
+   5,R,J
+   5,R,D,X
+   1,R,D
+  13,R,G
+   2,R
+  13,R,J,G
+   9,R,K,G
+  12,L,J,G
+  40
+#lvl_aa-04(2)
 
+   3
+   6,L,G
+   5,L
+   5,L,U,X
+   2,L
+   6
+   2,U
+   1,U
+  26,L,U,G
+   1,L
+  29,R,D
+   8,L,D
+  10,R,X
+   7,L,J
+   5,L,U,X
+  10,U
+   4,R,U
+   1
+   1,R,U
+  13,R,U,G
+   9,R,U,G
+   1,L
+  24,R,J
+   1,R,K
+   1,K
+   5,U,X
+   2,R,U
+   1,L,U
+   3
+   1,L,U
+   7
+   1,J
+  40
+#lvl_aa-05
 
+   1,L,J,G
+  12,L
+  13,R,G
+   8,R,K,G
+   1,L,K
+   7,L,K
+   5,L,U,X
+   3
+   3,U
+  13,G
+  60,L,G
+  14,L,D,G
+  10,L,U,G
+  16,L,G
+   8,L
+   5,L,U,X
+   2,U
+   1
+   5,U
+  24,R,U,G
+   1,R
+   7,L
+   1,J
+  20,L,J
+repeat,26
+   1,L,G
+   1,L
+endrepeat
+   9,J,G
+   1,R,J
+   1,K
+   1,R,J,G
+   3,R,K,G
+   1,R,J,G
+  40
+#lvl_aa-06
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# L1-R2-L2-Top route
-# Abandoned because not optimal
-# Since a jelly was required
-# at the end
-#   5,R,Z
-#   8,R,D,J
-#   4,R
-#  14,R,Z
-#   1,L,J
-#   5,L,D,C
-#   1
-#   2,L,D
-#   1,L,D
-#   3
-#   2,L,U
-#   1
-#   5,L,U,X
-#   2,U
-#  40
-#   4
-#   1,U
-#   1
-#   4,L,D
-#   1
-#   1,L,J,G
-#   1,L,K,G
-#   1,L
-#   1,L,J,G
-#   6,L
-#   1
-#   1,L,J
-#   5,L,U,X
-#   9,U
-#  11,L,D
-#   5,L,U,X
-#  43
-#   2
-#   6,U
-#   1
-#   1,L
-#   1,L
-#   2,L
-#   4,U
-#   2,R,J
-#   1,S
-#   1,D,J
-#  69,O
-#   5,L,Z
-#   2,L,D
-#   1
-#   1,L,U
-#   1,R,J
-#   3,R,K,G
-#  11,R
-#   1,R,J
-#   5,R,D,X
-#  40
-#   7,R,D
-#   1
-#   4,R,U
-#   5,R,D,X
-#   2,R,D
-#   2,R,U
-#   3
-#   1,R,U
-#   1,R,U
-#   4
-#   1,R,D
-#   1,R,D
-#   1
-#   1
-#   5,R,U,X
-#   1
-#  43
-#  10,U
-#  11,U,X
-#   5,R
-#   1
-#   4,L,U
-#   9,L,J
-#   8,L
-#  20,L,J
-#   2,L,D
-#  10,R,J
-#   1,R
-#  23,R,Z
-#   1,R,D
-#   3,R
-#   5
-#   9,R,Z
-#   7,U
-#   8,R,D
-#   4
-#   9,R,J,G
-#   9,R
-#  12,L,J
-#   8,U,X
-#   4,R
-#   1
-#  10,R
-#   4,R,D
-#   1,S
-#   1,D,J
-#  69,O
-#   9,R,Z
-#   3,R,D
-#   1
-#   2,R,U
-#   2,L,J
-#   4,L
-#   1,L,J
-#   5,L,D,X
-#   4
-#   3,L,D
-#   2
-#  40
-#   1
-#   1,L,U
-#  12,L,U,X
-#   1
-#  11,L,D
-#   9,L
-#   5,J
-#   7
-#   1,R,J
-#   6,J
-#   2,R,J
-#   1,R,J
-#   1,J
-#   5,U,Z
-#  13,L
-#   1,L,J
-#  15,L,D
-#   1,L,J,G
-#   2,L,K,G
-#   8,L
-#   2,L,J
-#   5,U,X
-#  11
-#   1,L,J
-#  40
-#   1,J
-#   1,L,J
-#   4,K
-#   5,R
-#   5,D,X
-#   1,R
-#   8
-#   1,R,J
-#   5,R,U,Z
-#  14,U
-#   2,R,U
-#   1,R,U,G
-#  25,R,U,G
-#   1,R
-#  29,L,K
-#  10,L,D
-#   1,L,J,G
-#  11,L,D
-#  23,D,X
-#  23,D,C
-#  23,D,X
-#  23,D,C
-#  23,D,X
-#  23,D,C
-#   2,R
-#   1,L,J
-#   5,R,J
-#   5,D,X
-#   1
-#  13,R
-#   1,L,J
-#   5,L,D,X
-#  10,L
-#   1,R,J
-#   7,R,D
-#   3,R,D,J
-#   5,R,D,X
-#  14,D
-#   3,L,D
-#   1
-#  15,L,D
-#   5,L,Z
-#   1,L,D
-#   1,L,J
-#   8,L
-#   1,L
-#   9,D,X
-#  40
+   4
+   6,J,G
+   5,R,J,G
+   1,R,K,G
+   6,R
+   5,L,Z
+   2,L,D
+   2
+   1,L,U
+   1,R,J
+   6,R
+   2,R,J
+   5,R,U,X
+  18,U
+   2,L,U
+   2
+  27,U,X
+  24,U,C
+  18,J
+  10,L,K,G
