@@ -1,4 +1,4 @@
-RecordCount: 3580
+RecordCount: 4006
 console load nameguysdsidespack/0/10-Farewell
 Set,SuperDashing,true
    1
@@ -1049,7 +1049,161 @@ endrepeat
   16,R,D
    1,D
    5,R,U,X
+***
   18,U
+   1
+   1,J,G
+   5,R,J
+   1
+   1
+   1,L
+  12,R,J,G
+***
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   5,L,Z
+   3,L,D
+   2,L,U
+   1,R,J
+   4,R
+***
+   1,R,J
+   5,R,U,X
+  40
+***
+   1
+  12,R
+   5,R,U,X
+   6,U
+   1
+  12,R,D
+   5,R,D,X
+  10,R
+   1,R,U
+   6
+   1,R,D
+   1,R
+
+
+
+
+
+   4,R,D
+   5,D
+   1
+   7,D
+   3
+   5,R,D,X
+   7,D
+   1
+   6,R
+   4,L,D,X
+   1,R,U
+   6,U
+
+  17,R
+   5,R,U,X
+   2,R
+   6
+   7
+   6,R,D
+   4,R,D,X
+   1,R,U
+   6,U
+   6,R
+   7,R,D
+  40,R
+   4
+   6,R,J
+   7,R
+   5,L,Z
+   2,L,D
+   2
+   1,L,U
+   1,R,J
+   4,R
+
+
+   8,R,J
+   1,R
+   5,R,D,X
+   2,R
+   5,R,D
+   1
+   1,R
+   1
+   3,R
+   1,R
+   4,L,D,X
+   9,R,U
+   1
+  10,R,D
+  30,R
+   1,D
+   6,R,D
+   5,R,U,X
+   2,R
+   9
+   1,R
+   6
+   1,R
+   1,R,J,G
+   4,L,J
+   7,R,J
   12,R,K,G
-  10,R,J,G
-   9,R
+   2,R,J,G
+   7,R
+  10,R,X
+   5,R,J
+***s
+   5,U,X
+   1,R
+   6
+   1,L,U
+   6
+  40
+***
+   1,L,J,G
+   2
+   8,R
+  14,L,Z
+   1,R,J
+   5,R,D,X
+   1,R,U
+***
+   1
+   3,R,U
+   5,R,D
+***
+   5,R,D,X
+   2,R,U
+   1
+   2,R,D
+   1,R,J
+   1,R,K,G
+   3,R
+   3
+   5,R,D,X
+   5,R,U
+   1
+   4,R,D
+   4,R,D,X
+***
+   1,R,U
+   1
+   1,R
+   1
+   2,R
+   2,R,D
+   9
+   5,R,U,X
+   7,U
+ 100,R,G
+   4,R,D
+  14
+   5,L,D
+   1,R,J
+   8,R
+   4,R
